@@ -1,2 +1,2 @@
 # coderpath
-Desarrollo Web. De 0, a Ninja.
+Desarrollo Web. De Cero Ninja.
